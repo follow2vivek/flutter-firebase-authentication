@@ -1,4 +1,4 @@
-# Detail explanation available at => url
+# Detail explanation available at => https://www.appwithflutter.com/flutter-firebase-authentication-tutorial/
 
 ScreenShot | ScreenShot
 ------------ | -------------
